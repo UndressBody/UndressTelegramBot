@@ -1,2 +1,0 @@
-# UndressTelegramBot
-Undress Telegram Bot
